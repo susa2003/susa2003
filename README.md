@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sudharsan K
 
-### AI Developer | Full-Stack Developer | Problem Solver
+### AI Developer | Full-Stack Developer | Software Engineer
 
-I build intelligent applications, AI-powered tools, and modern web experiences that solve real-world problems.
+I build intelligent applications, AI-powered tools, and modern software experiences that solve real-world problems.
 
-🎓 B.Tech Information Technology student (2023–2027)  
-🤖 Interested in AI agents, LLMs, machine learning, and automation  
-🌐 Building full-stack applications with React, Python, and modern backend technologies  
-🚀 Always learning, building, and improving.
+🎓 B.Tech Information Technology (2023–2027)  
+🤖 Exploring AI Agents, LLMs, Machine Learning and Automation  
+🌐 Building Full-Stack and Cross-Platform Applications  
+🚀 Passionate about learning, experimenting and creating impactful solutions.
 
 <p align="left">
   <a href="https://sudharsan-portfolio-lovat.vercel.app/">
@@ -25,95 +25,118 @@ I build intelligent applications, AI-powered tools, and modern web experiences t
 
 ## 👨‍💻 About Me
 
-- 🔭 Building AI-powered applications and full-stack projects
-- 🌱 Improving my skills in Java, Python, DSA, and software development
-- 🧠 Exploring intelligent agents, LLM integrations, and RAG systems
-- 💻 Interested in building practical solutions with clean, maintainable code
-- 🤝 Open to collaborating on meaningful software and AI projects
+- 🔭 Currently developing ARTISTRY AI, a local-first creative drawing application.
+- 🌱 Improving my skills in Java, Python, DSA and software engineering.
+- 🧠 Exploring AI agents, LLM integrations, RAG and intelligent automation.
+- 💻 Interested in full-stack development and building practical software solutions.
+- 🤝 Open to collaborating on interesting AI and software projects.
 
 ## 🛠️ Technologies & Tools
 
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python and JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming languages"/>
 </p>
 
-**Frontend Development**
+**Frontend & Mobile Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,expo" alt="Frontend and mobile technologies"/>
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql" alt="Backend and database technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres" alt="Backend and databases"/>
 </p>
 
-**Developer Tools**
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,androidstudio" alt="Developer tools"/>
 </p>
 
 ## 🚀 Featured Projects
 
-### 🔋 Intelligent Battery Testing Agent
-An application designed to import battery testing reports, analyse data, compare results, generate reports, support translations, and provide an AI assistant.
+### 🎨 ARTISTRY AI — Local-First Creative Drawing Studio
 
-**Tech:** React · FastAPI · Python · AI Integration
+An Android and Web drawing studio focused on digital art creation, creative workflows and a local-first experience.
+
+**Tech:** React Native · Expo · Java · Android SDK
+
+### 🌿 GreenAir AI — Intelligent Environmental Analytics
+
+An environmental analytics application combining air-quality data, machine learning predictions and AI-powered insights.
+
+**Tech:** React · TypeScript · Vite · Python · FastAPI · Machine Learning · SQLite
+
+[View Repository](https://github.com/susa2003/GreenAir-AI)
+
+### 🔋 Intelligent Battery Testing Automation Agent
+
+An intelligent application for monitoring battery testing workflows, processing test reports, analysing results and generating reports.
+
+**Tech:** Python · AI Integration · Automation
 
 ### 🌫️ AirSight India
-A machine learning project focused on air-quality data analysis and predictive modelling.
 
-**Tech:** Python · Machine Learning · Flask
+A machine learning project for air-quality analysis and prediction using environmental datasets.
 
-### 🤖 AI HR Recruitment Agent
-An AI-assisted recruitment project featuring resume analysis, job matching, interview question generation, and knowledge retrieval.
-
-**Tech:** Python · ChromaDB · RAG
+**Tech:** Python · Flask · Random Forest
 
 ### 🌐 Portfolio CMS
-A content management system for managing portfolio information and showcasing projects through a web interface.
 
-**Tech:** JavaScript · React · Node.js · MongoDB
+An interactive content management system for managing and showcasing portfolio information and projects.
 
-### 🛒 E-commerce Website
-A web project focused on online product browsing and shopping experiences.
+**Tech:** React · Vite · Node.js · Express · MongoDB
 
-**Repository:** [E-commerce](https://github.com/susa2003/E-commerce)
+[View Repository](https://github.com/susa2003/portfolio-cms)
+
+### 🛒 E-Commerce Website
+
+A web application project focused on online product browsing and shopping experiences.
+
+[View Repository](https://github.com/susa2003/E-commerce)
 
 ### ✅ Task Manager
-A task management project for organizing and tracking tasks.
 
-**Repository:** [task-manager](https://github.com/susa2003/task-manager)
+A task management application for organizing and tracking tasks.
+
+[View Repository](https://github.com/susa2003/task-manager)
 
 ### 📝 Blog Application
-A web application project focused on publishing and managing blog content.
 
-**Repository:** [blog](https://github.com/susa2003/blog)
+A web application for creating and managing blog content.
 
-> Explore my repositories for source code, implementation details, and project updates.
+[View Repository](https://github.com/susa2003/blog)
 
-## 📊 GitHub Statistics
+---
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=susa2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susa2003&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=susa2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susa2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=susa2003&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=susa2003&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub Contribution Streak"/>
 </p>
+
+---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, sharing ideas, collaborating, and building useful technology.
+I'm always interested in exploring new technologies, collaborating on projects and building useful software.
 
-- 🌐 Portfolio: [Visit my website](https://sudharsan-portfolio-lovat.vercel.app/)
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sudharsan-k-)
-- 💻 GitHub: [Explore my repositories](https://github.com/susa2003)
+<p align="left">
+  <a href="https://sudharsan-portfolio-lovat.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sudharsan-k-">LinkedIn</a> ·
+  <a href="https://github.com/susa2003">GitHub</a>
+</p>
 
 ---
 
